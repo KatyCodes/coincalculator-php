@@ -1,4 +1,4 @@
-# Mad Lib
+# Coin Counter
 Version 0.0.1: August 15, 2016
 by [Katy Henning](https://katycodes.github.io) and Aimen Khakwani
 
@@ -6,7 +6,7 @@ by [Katy Henning](https://katycodes.github.io) and Aimen Khakwani
 PHP, Twig, Silex
 
 ## Description
-* Playing around with Silex and Twig.
+* Allows users to input amount of money they have and program returns the number of coins that make up that amount using the least amount of coins.
 
 ## Setup/Installation
 
